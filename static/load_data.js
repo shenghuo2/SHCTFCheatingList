@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
             data.forEach(item => {
                 const row = document.createElement('tr');
                 const submitTeamName = item.is_self_recommendation ? 
-                    `<span style="color: red;">自荐</span>` : 
+                    `<span style="color: red;">毛遂自荐</span>` : 
                     item.submitTeam.team.name;
                 row.innerHTML = `
                     <td>${submitTeamName}</td>
