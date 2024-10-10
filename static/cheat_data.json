@@ -1,0 +1,1647 @@
+[
+  {
+    "ownedTeam": {
+      "id": 1572,
+      "team": {
+        "id": 1622,
+        "name": "侠猫",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 1556,
+      "team": {
+        "id": 1606,
+        "name": "FCB",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-08T14:36:05.27677+00:00",
+      "user": "0xFFred",
+      "team": "FCB",
+      "challenge": "【可选】 绑定QQ账号",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初八日",
+        "hour": "亥初",
+        "ke": "肆刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1718,
+      "team": {
+        "id": 1770,
+        "name": "Ylin",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 875,
+      "team": {
+        "id": 933,
+        "name": "丁真",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-08T14:32:02.578269+00:00",
+      "user": "丁真测吗",
+      "team": "丁真",
+      "challenge": "[Week1] Hello Crypto",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初八日",
+        "hour": "亥初",
+        "ke": "肆刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1718,
+      "team": {
+        "id": 1770,
+        "name": "Ylin",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 29,
+      "team": {
+        "id": 73,
+        "name": "winner",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-08T14:29:16.867603+00:00",
+      "user": "winner",
+      "team": "winner",
+      "challenge": "[Week1] Hello Crypto",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初八日",
+        "hour": "亥初",
+        "ke": "叁刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 875,
+      "team": {
+        "id": 933,
+        "name": "丁真",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 29,
+      "team": {
+        "id": 73,
+        "name": "winner",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-08T14:15:47.709528+00:00",
+      "user": "winner",
+      "team": "winner",
+      "challenge": "[Week1] 小助手",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初八日",
+        "hour": "亥初",
+        "ke": "叁刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1577,
+      "team": {
+        "id": 482,
+        "name": "tmind",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 1588,
+      "team": {
+        "id": 1638,
+        "name": "tutufeiche",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-08T12:15:51.507169+00:00",
+      "user": "tutuche",
+      "team": "tutufeiche",
+      "challenge": "[Week1] ez_gittt",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初八日",
+        "hour": "戌初",
+        "ke": "叁刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 510,
+      "team": {
+        "id": 569,
+        "name": "AAAA建材王哥",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "齐鲁工业大学(山东省科学院）"
+    },
+    "submitTeam": {
+      "id": 512,
+      "team": {
+        "id": 256,
+        "name": "无敌汉堡王",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "齐鲁工业大学(山东省科学院）"
+    },
+    "submission": {
+      "time": "2024-10-08T12:01:52.35813+00:00",
+      "user": "杨钊滨",
+      "team": "无敌汉堡王",
+      "challenge": "[Week1] Hello Crypto",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初八日",
+        "hour": "戌初",
+        "ke": "贰刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1680,
+      "team": {
+        "id": 1731,
+        "name": "daisy",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "西安邮电大学"
+    },
+    "submitTeam": {
+      "id": 1693,
+      "team": {
+        "id": 1744,
+        "name": "daisy1",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "西安邮电大学"
+    },
+    "submission": {
+      "time": "2024-10-08T11:36:15.363153+00:00",
+      "user": "daisy1",
+      "team": "daisy1",
+      "challenge": "[Week1] 小助手",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初八日",
+        "hour": "酉正",
+        "ke": "肆刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 510,
+      "team": {
+        "id": 569,
+        "name": "AAAA建材王哥",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "齐鲁工业大学(山东省科学院）"
+    },
+    "submitTeam": {
+      "id": 1609,
+      "team": {
+        "id": 1659,
+        "name": "Uizer",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "齐鲁工业大学(山东省科学院）"
+    },
+    "submission": {
+      "time": "2024-10-08T11:20:55.516995+00:00",
+      "user": "uizer",
+      "team": "Uizer",
+      "challenge": "[Week1] Hello Crypto",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初八日",
+        "hour": "酉正",
+        "ke": "叁刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1038,
+      "team": {
+        "id": 1093,
+        "name": "yesctf",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "西安邮电大学"
+    },
+    "submitTeam": {
+      "id": 1680,
+      "team": {
+        "id": 1731,
+        "name": "daisy",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "西安邮电大学"
+    },
+    "submission": {
+      "time": "2024-10-08T11:12:35.945896+00:00",
+      "user": "daisy",
+      "team": "daisy",
+      "challenge": "[Week1] MD5 Master",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初八日",
+        "hour": "酉正",
+        "ke": "贰刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1038,
+      "team": {
+        "id": 1093,
+        "name": "yesctf",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "西安邮电大学"
+    },
+    "submitTeam": {
+      "id": 971,
+      "team": {
+        "id": 1026,
+        "name": "人参公鸡",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "西安邮电大学"
+    },
+    "submission": {
+      "time": "2024-10-08T11:11:18.322996+00:00",
+      "user": "flaggg",
+      "team": "人参公鸡",
+      "challenge": "[Week1] MD5 Master",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初八日",
+        "hour": "酉正",
+        "ke": "贰刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 994,
+      "team": {
+        "id": 1049,
+        "name": "noname",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 45,
+      "team": {
+        "id": 87,
+        "name": "chenxing",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-08T08:31:23.220388+00:00",
+      "user": "chen_xing",
+      "team": "chenxing",
+      "challenge": "[Week1] d_known",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初八日",
+        "hour": "申初",
+        "ke": "肆刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1509,
+      "team": {
+        "id": 1560,
+        "name": "iris",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "齐鲁工业大学(山东省科学院）"
+    },
+    "submitTeam": {
+      "id": 759,
+      "team": {
+        "id": 817,
+        "name": "。。",
+        "avatar": "/assets/961c0723c16736cba55d92328ca052fd50f5e52fee9f69fe3c2fa6b9f841c2e4/avatar"
+      },
+      "status": "Suspended",
+      "organization": "齐鲁工业大学(山东省科学院）"
+    },
+    "submission": {
+      "time": "2024-10-07T15:21:57.076854+00:00",
+      "user": "xxxxx",
+      "team": "。。",
+      "challenge": "[Week1] EzAES",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初七日",
+        "hour": "亥正",
+        "ke": "叁刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1114,
+      "team": {
+        "id": 1170,
+        "name": "大铭开国皇帝",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 156,
+      "team": {
+        "id": 202,
+        "name": "chenpeng",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-07T15:18:09.252483+00:00",
+      "user": "11111111",
+      "team": "chenpeng",
+      "challenge": "[Week1] EzAES",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初七日",
+        "hour": "亥正",
+        "ke": "叁刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 510,
+      "team": {
+        "id": 569,
+        "name": "AAAA建材王哥",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "齐鲁工业大学(山东省科学院）"
+    },
+    "submitTeam": {
+      "id": 522,
+      "team": {
+        "id": 579,
+        "name": "不要指望我们队",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "齐鲁工业大学(山东省科学院）"
+    },
+    "submission": {
+      "time": "2024-10-07T11:37:19.958204+00:00",
+      "user": "siang",
+      "team": "不要指望我们队",
+      "challenge": "[Week1] Hello Crypto",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初七日",
+        "hour": "酉正",
+        "ke": "肆刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 510,
+      "team": {
+        "id": 569,
+        "name": "AAAA建材王哥",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "齐鲁工业大学(山东省科学院）"
+    },
+    "submitTeam": {
+      "id": 231,
+      "team": {
+        "id": 266,
+        "name": "即将拥有八块腹肌的master",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "齐鲁工业大学(山东省科学院）"
+    },
+    "submission": {
+      "time": "2024-10-07T11:31:32.257599+00:00",
+      "user": "qgp",
+      "team": "即将拥有八块腹肌的master",
+      "challenge": "[Week1] Hello Crypto",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初七日",
+        "hour": "酉正",
+        "ke": "肆刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1021,
+      "team": {
+        "id": 1076,
+        "name": "Ocean blue",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 1568,
+      "team": {
+        "id": 1618,
+        "name": "xiaoxiao",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-06T17:53:30.177035+00:00",
+      "user": "xiaoq123",
+      "team": "xiaoxiao",
+      "challenge": "[Week1] ez_gittt",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初七日",
+        "hour": "丑初",
+        "ke": "壹刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1252,
+      "team": {
+        "id": 1305,
+        "name": "A1gorithms",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 1080,
+      "team": {
+        "id": 1135,
+        "name": "BLEACH",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-06T11:15:50.741632+00:00",
+      "user": "Archie_x",
+      "team": "BLEACH",
+      "challenge": "[Week1] factor",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初六日",
+        "hour": "酉正",
+        "ke": "叁刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 196,
+      "team": {
+        "id": 241,
+        "name": "lsx",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "长春理工大学"
+    },
+    "submitTeam": {
+      "id": 153,
+      "team": {
+        "id": 199,
+        "name": "xiaoyutou",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "长春理工大学"
+    },
+    "submission": {
+      "time": "2024-10-06T05:42:01.14634+00:00",
+      "user": "xiaoyutou",
+      "team": "xiaoyutou",
+      "challenge": "[Week1] Hello Crypto",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初六日",
+        "hour": "午正",
+        "ke": "肆刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1507,
+      "team": {
+        "id": 1558,
+        "name": "Aurora",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 601,
+      "team": {
+        "id": 661,
+        "name": "Childish Ghost",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-06T03:24:50.695557+00:00",
+      "user": "Childish Ghost",
+      "team": "Childish Ghost",
+      "challenge": "[Week1] 1zflask",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初六日",
+        "hour": "巳正",
+        "ke": "叁刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 785,
+      "team": {
+        "id": 849,
+        "name": "WWW",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 62,
+      "team": {
+        "id": 110,
+        "name": "eee",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-06T02:56:04.771458+00:00",
+      "user": "eee",
+      "team": "eee",
+      "challenge": "[Week1] d_known",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初六日",
+        "hour": "巳正",
+        "ke": "壹刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1484,
+      "team": {
+        "id": 1534,
+        "name": "123",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 896,
+      "team": {
+        "id": 951,
+        "name": "亮汪汪",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-05T15:17:09.534758+00:00",
+      "user": "lww",
+      "team": "亮汪汪",
+      "challenge": "[Week1] MD5 Master",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初五日",
+        "hour": "亥正",
+        "ke": "叁刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1445,
+      "team": {
+        "id": 1494,
+        "name": "wo",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 1457,
+      "team": {
+        "id": 1506,
+        "name": "6317",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-05T10:35:59.711755+00:00",
+      "user": "6317",
+      "team": "6317",
+      "challenge": "[Week1] factor",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初五日",
+        "hour": "酉初",
+        "ke": "肆刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 882,
+      "team": {
+        "id": 544,
+        "name": "郑心怡天天开心",
+        "avatar": "/assets/412d0c2dbb7f70534070a8c6992fcd2a7866897840a2a9e149a9088f283105f4/avatar"
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 1462,
+      "team": {
+        "id": 1511,
+        "name": "测试",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-05T07:51:20.02222+00:00",
+      "user": "Liu",
+      "team": "测试",
+      "challenge": "[Week1] 单身十八年的手速",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初五日",
+        "hour": "申初",
+        "ke": "壹刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 175,
+      "team": {
+        "id": 224,
+        "name": "K&K",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "西安邮电大学"
+    },
+    "submitTeam": {
+      "id": 410,
+      "team": {
+        "id": 465,
+        "name": "@@@@",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "西安邮电大学"
+    },
+    "submission": {
+      "time": "2024-10-05T07:23:31.666972+00:00",
+      "user": "zj@",
+      "team": "@@@@",
+      "challenge": "[Week1] Hello Crypto",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初五日",
+        "hour": "未正",
+        "ke": "叁刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 202,
+      "team": {
+        "id": 248,
+        "name": "yuan",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 1360,
+      "team": {
+        "id": 1412,
+        "name": "yuan",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-05T03:42:48.410029+00:00",
+      "user": "sky123",
+      "team": "yuan",
+      "challenge": "[Week1] Hello Crypto",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初五日",
+        "hour": "巳正",
+        "ke": "肆刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1380,
+      "team": {
+        "id": 1429,
+        "name": "hanrensec",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "齐鲁工业大学(山东省科学院）"
+    },
+    "submitTeam": {
+      "id": 1253,
+      "team": {
+        "id": 1306,
+        "name": "千年老不死妖怪",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "齐鲁工业大学(山东省科学院）"
+    },
+    "submission": {
+      "time": "2024-10-04T13:07:21.639106+00:00",
+      "user": "laoyao0822",
+      "team": "千年老不死妖怪",
+      "challenge": "[Week1] EzAES",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初四日",
+        "hour": "戌正",
+        "ke": "贰刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1212,
+      "team": {
+        "id": 1268,
+        "name": "Freedom",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 662,
+      "team": {
+        "id": 723,
+        "name": "px",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-04T06:59:07.908933+00:00",
+      "user": "pn1fg",
+      "team": "px",
+      "challenge": "[Week1] Hello Crypto",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初四日",
+        "hour": "未正",
+        "ke": "壹刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1212,
+      "team": {
+        "id": 1268,
+        "name": "Freedom",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 496,
+      "team": {
+        "id": 557,
+        "name": "新手入门",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-04T06:53:45.801066+00:00",
+      "user": "asdfghjkl",
+      "team": "新手入门",
+      "challenge": "[Week1] Hello Crypto",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初四日",
+        "hour": "未正",
+        "ke": "壹刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 258,
+      "team": {
+        "id": 305,
+        "name": "skyra1n",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 202,
+      "team": {
+        "id": 248,
+        "name": "yuan",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-04T02:30:24.490547+00:00",
+      "user": "san",
+      "team": "yuan",
+      "challenge": "[Week1] 签个到吧",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初四日",
+        "hour": "巳初",
+        "ke": "肆刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 805,
+      "team": {
+        "id": 846,
+        "name": "Dovever",
+        "avatar": "/assets/c492a59a1517ffe59df0e47f3825f2b866893519ed2a6c2f6d96e0427ddd3104/avatar"
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 1232,
+      "team": {
+        "id": 1287,
+        "name": "wuwuwu",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-04T02:11:55.886364+00:00",
+      "user": "wwuuwuw",
+      "team": "wuwuwu",
+      "challenge": "[Week1] EzAES",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初四日",
+        "hour": "巳初",
+        "ke": "贰刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 418,
+      "team": {
+        "id": 473,
+        "name": "Ave mujika",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "潍坊科技学院"
+    },
+    "submitTeam": {
+      "id": 551,
+      "team": {
+        "id": 610,
+        "name": "神之手",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "潍坊科技学院"
+    },
+    "submission": {
+      "time": "2024-10-03T15:56:07.217744+00:00",
+      "user": "长岛冰茶",
+      "team": "神之手",
+      "challenge": "[Week1] Hello Crypto",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初三日",
+        "hour": "子初",
+        "ke": "壹刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 159,
+      "team": {
+        "id": 130,
+        "name": "十三香",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "河南大学"
+    },
+    "submitTeam": {
+      "id": 694,
+      "team": {
+        "id": 755,
+        "name": "桑杰伦",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "西安邮电大学"
+    },
+    "submission": {
+      "time": "2024-10-03T12:27:58.463001+00:00",
+      "user": "桑杰伦",
+      "team": "桑杰伦",
+      "challenge": "[Week1] factor",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初三日",
+        "hour": "戌初",
+        "ke": "叁刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1192,
+      "team": {
+        "id": 1246,
+        "name": "HCUSEC",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 580,
+      "team": {
+        "id": 638,
+        "name": "niuwa",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-03T04:33:53.594084+00:00",
+      "user": "niuwa",
+      "team": "niuwa",
+      "challenge": "[Week1] 1zflask",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初三日",
+        "hour": "午初",
+        "ke": "肆刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 1121,
+      "team": {
+        "id": 1176,
+        "name": "呢？",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "广东技术师范大学"
+    },
+    "submitTeam": {
+      "id": 390,
+      "team": {
+        "id": 442,
+        "name": "henshion",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "广东技术师范大学"
+    },
+    "submission": {
+      "time": "2024-10-03T04:03:50.508635+00:00",
+      "user": "呆jio布",
+      "team": "henshion",
+      "challenge": "[Week1] Hello Crypto",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初三日",
+        "hour": "午初",
+        "ke": "贰刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 453,
+      "team": {
+        "id": 514,
+        "name": "kunkun",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "南昌航空大学科技学院"
+    },
+    "submitTeam": {
+      "id": 1159,
+      "team": {
+        "id": 1215,
+        "name": "或者说",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "南昌航空大学科技学院"
+    },
+    "submission": {
+      "time": "2024-10-02T16:21:16.406057+00:00",
+      "user": "或者shi",
+      "team": "或者说",
+      "challenge": "[Week1] ez_gittt",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初三日",
+        "hour": "子初",
+        "ke": "叁刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 977,
+      "team": {
+        "id": 1033,
+        "name": "moyuan",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "广东技术师范大学"
+    },
+    "submitTeam": {
+      "id": 878,
+      "team": {
+        "id": 935,
+        "name": "我很无聊",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "广东技术师范大学"
+    },
+    "submission": {
+      "time": "2024-10-02T16:16:02.181486+00:00",
+      "user": "......",
+      "team": "我很无聊",
+      "challenge": "[Week1] 小助手",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初三日",
+        "hour": "子初",
+        "ke": "叁刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 893,
+      "team": {
+        "id": 948,
+        "name": "bb的队伍",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 1128,
+      "team": {
+        "id": 1183,
+        "name": "libc",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-02T14:51:29.608064+00:00",
+      "user": "libc",
+      "team": "libc",
+      "challenge": "[Week1] EzAES",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初二日",
+        "hour": "亥正",
+        "ke": "壹刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 930,
+      "team": {
+        "id": 986,
+        "name": "free",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 893,
+      "team": {
+        "id": 948,
+        "name": "bb的队伍",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-02T13:45:57.969671+00:00",
+      "user": "bbbbbb12138",
+      "team": "bb的队伍",
+      "challenge": "[Week1] 小助手",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初二日",
+        "hour": "亥初",
+        "ke": "壹刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 278,
+      "team": {
+        "id": 322,
+        "name": "finest",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "西安邮电大学"
+    },
+    "submitTeam": {
+      "id": 283,
+      "team": {
+        "id": 326,
+        "name": "Yyj steam",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "西安邮电大学"
+    },
+    "submission": {
+      "time": "2024-10-02T11:21:33.598235+00:00",
+      "user": "杨育杰",
+      "team": "Yyj steam",
+      "challenge": "[Week1] 单身十八年的手速",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初二日",
+        "hour": "酉正",
+        "ke": "叁刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 455,
+      "team": {
+        "id": 515,
+        "name": "web",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 455,
+      "team": {
+        "id": 515,
+        "name": "web",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-02T10:13:18.587601+00:00",
+      "user": "web",
+      "team": "web",
+      "challenge": "[Week1-Week4] 签到题",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初二日",
+        "hour": "酉初",
+        "ke": "贰刻"
+      }
+    },
+    "is_self_recommendation": true
+  },
+  {
+    "ownedTeam": {
+      "id": 918,
+      "team": {
+        "id": 966,
+        "name": "激素与受体",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 559,
+      "team": {
+        "id": 618,
+        "name": "noctf",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-02T08:42:49.537045+00:00",
+      "user": "starboy77",
+      "team": "noctf",
+      "challenge": "[Week1] 小助手",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初二日",
+        "hour": "申初",
+        "ke": "肆刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 453,
+      "team": {
+        "id": 514,
+        "name": "kunkun",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "南昌航空大学科技学院"
+    },
+    "submitTeam": {
+      "id": 453,
+      "team": {
+        "id": 514,
+        "name": "kunkun",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "南昌航空大学科技学院"
+    },
+    "submission": {
+      "time": "2024-10-02T06:53:14.571002+00:00",
+      "user": "kunkun",
+      "team": "kunkun",
+      "challenge": "[Week1] MD5 Master",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初二日",
+        "hour": "未正",
+        "ke": "壹刻"
+      }
+    },
+    "is_self_recommendation": true
+  },
+  {
+    "ownedTeam": {
+      "id": 301,
+      "team": {
+        "id": 344,
+        "name": "聚义厅",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 405,
+      "team": {
+        "id": 459,
+        "name": "划水水",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-02T06:49:56.410172+00:00",
+      "user": "tonghua",
+      "team": "划水水",
+      "challenge": "[Week1] 蛐蛐?蛐蛐!",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初二日",
+        "hour": "未正",
+        "ke": "壹刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 90,
+      "team": {
+        "id": 138,
+        "name": "LVldnl",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "长春理工大学"
+    },
+    "submitTeam": {
+      "id": 95,
+      "team": {
+        "id": 147,
+        "name": "Agustus",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "长春理工大学"
+    },
+    "submission": {
+      "time": "2024-10-02T06:08:55.609524+00:00",
+      "user": "BlazeR",
+      "team": "Agustus",
+      "challenge": "[Week1] EzAES",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初二日",
+        "hour": "未初",
+        "ke": "贰刻"
+      }
+    },
+    "is_self_recommendation": false
+  },
+  {
+    "ownedTeam": {
+      "id": 897,
+      "team": {
+        "id": 953,
+        "name": "CTFer",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 897,
+      "team": {
+        "id": 953,
+        "name": "CTFer",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-02T06:08:37.185602+00:00",
+      "user": "Aurora12",
+      "team": "CTFer",
+      "challenge": "[Week1]Quarantine",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初二日",
+        "hour": "未初",
+        "ke": "贰刻"
+      }
+    },
+    "is_self_recommendation": true
+  },
+  {
+    "ownedTeam": {
+      "id": 256,
+      "team": {
+        "id": 303,
+        "name": "YT_NO.1",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 256,
+      "team": {
+        "id": 303,
+        "name": "YT_NO.1",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-02T05:48:06.977001+00:00",
+      "user": "hands",
+      "team": "YT_NO.1",
+      "challenge": "[Week1] just Signin",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初二日",
+        "hour": "未初",
+        "ke": "壹刻"
+      }
+    },
+    "is_self_recommendation": true
+  },
+  {
+    "ownedTeam": {
+      "id": 940,
+      "team": {
+        "id": 92,
+        "name": "妈妈我想吃烤山药",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submitTeam": {
+      "id": 940,
+      "team": {
+        "id": 92,
+        "name": "妈妈我想吃烤山药",
+        "avatar": null
+      },
+      "status": "Suspended",
+      "organization": "公开赛道"
+    },
+    "submission": {
+      "time": "2024-10-02T05:36:24.680336+00:00",
+      "user": "13UtterFly",
+      "team": "妈妈我想吃烤山药",
+      "challenge": "[Week1] just Signin",
+      "formatted_time": {
+        "year": "甲辰年",
+        "date": "十月初二日",
+        "hour": "午正",
+        "ke": "肆刻"
+      }
+    },
+    "is_self_recommendation": true
+  }
+]
